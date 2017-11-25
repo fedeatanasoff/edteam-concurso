@@ -1,0 +1,17 @@
+
+body{
+    background: #212121;
+}
+
+h1, p, a{
+    color: #fff;
+}
+
+
+.iconos{
+    padding: 5px;
+}
+
+.iconos:hover{
+    color:#feff00
+}
